@@ -1,16 +1,16 @@
-# ?? AI Face Recognition Attendance System
+﻿# 🎯 AI Face Recognition Attendance System
 
-A full-stack AI-based Face Recognition Attendance System built using React, Flask, and OpenCV.
+A full-stack AI-based Face Recognition Attendance System.
 
----
+## 🚀 Features
+* **Person Management**
+* **Dataset Capture**
+* **AI Training**
+* **Live Recognition**
 
-## ????? Author
+## 📂 Project Structure
+- FACE/ (Backend)
+- face-frontend/ (Frontend)
 
-**Shreyas G K**
-AI Face Recognition Attendance System Project
-
----
-
-## ?? License
-This project is for educational and academic use.
- 
+## 👨‍💻 Author
+**Shreyas G**
